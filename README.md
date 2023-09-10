@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ROHIT</h1>
-<h3 align="center">A KLE TECH STUDENT HUBLI</h3>
+<h3 align="center">A  STUDENT  @ KLETCH HUBLI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitb-patil&label=Profile%20views&color=0e75b6&style=flat" alt="rohitb-patil" /> </p>
 
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **01fe21bec234@kletech.ac.in**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
