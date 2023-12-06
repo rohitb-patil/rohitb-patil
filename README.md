@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitb-patil&label=Profile%20views&color=0e75b6&style=flat" alt="rohitb-patil" /> </p>
 
-- 🌱 I’m currently learning **PYTHON ,MACHINE LEARNING.**
+
 
 - 📫 How to reach me **01fe21bec234@kletech.ac.in**
 
