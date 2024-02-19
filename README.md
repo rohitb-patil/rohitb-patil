@@ -10,7 +10,7 @@
 
 - 🎓 I'm a student at KLETECH Hubli, pursuing my education in BE(Electronics and Communication).
 - 💼 Open to collaborate on projects and ideas related to Machine Learning  , Embedded Systems.
-- 📫 How to reach me: [rohitsbiradarpatil@gmail.com](mailto:rohitsbiradarpatil@gmail.com)
+- 📫 How to reach me: [rohitsbiradarpatil@gmail.com](rohitsbiradarpatil@gmail.com)
 
 
 <h2 align="center">Languages and Tools</h2>
