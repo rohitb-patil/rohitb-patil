@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ROHIT</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" alt="Animated GIF" width="300"/>
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e474sglsoa9hamsl7yu3spo4s7caiyft3tnwktv5xcc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" width="300"/>
 </p>
 
 <p align="center">A passionate learner and enthusiast</p>
